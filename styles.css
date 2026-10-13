@@ -77,3 +77,12 @@ footer {
     text-align: center;
     padding: 15px;
 }
+body {
+    background-color: #222;
+    color: white;
+}
+
+header {
+    background-color: #333;
+    padding: 20px;
+}
