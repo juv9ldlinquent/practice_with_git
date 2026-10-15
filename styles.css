@@ -1,6 +1,6 @@
 /* General page styling */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
@@ -79,7 +79,7 @@ footer {
 }
 body {
     background-color: #222;
-    color: white;
+    color: #333;
 }
 
 header {
